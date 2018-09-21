@@ -1,7 +1,7 @@
 Algoritomo
-4
-Biologia
 3
+Biologia
+4
 Desenho
 1
 Educacao Fisica
